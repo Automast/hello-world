@@ -1,0 +1,356 @@
+Uri: https://cdn.cookielaw.org/scripttemplates/otSDKStub.js
+File Name: C:\3fa\www.primeopinion.com\scripttemplates\otSDKStub.js
+Content Type: application/javascript
+
+Uri: https://flagcdn.com/20x15/us.png
+File Name: C:\3fa\www.primeopinion.com\20x15\us.png
+Content Type: image/png
+
+Uri: https://flagcdn.com/40x30/us.png
+File Name: C:\3fa\www.primeopinion.com\40x30\us.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Montserrat:wght@400;500;600;700&display=swap
+File Name: C:\3fa\www.primeopinion.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\3fa\www.primeopinion.com\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\3fa\www.primeopinion.com\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v14/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\3fa\www.primeopinion.com\s\dmsans\v14\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\3fa\www.primeopinion.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\3fa\www.primeopinion.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\3fa\www.primeopinion.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v26/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\3fa\www.primeopinion.com\s\montserrat\v26\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://giftrocket-s3.imgix.net/Brands/US/Amazon.com/Digital/Amazon.com.png
+File Name: C:\3fa\www.primeopinion.com\Brands\US\Amazon.com\Digital\Amazon.com.png
+Content Type: image/png
+
+Uri: https://giftrocket-s3.imgix.net/Brands/US/eBay/Digital/eBay.png
+File Name: C:\3fa\www.primeopinion.com\Brands\US\eBay\Digital\eBay.png
+Content Type: image/png
+
+Uri: https://giftrocket-s3.imgix.net/Brands/US/iTunes/Digital/B2B/iTunes_B2B.png
+File Name: C:\3fa\www.primeopinion.com\Brands\US\iTunes\Digital\B2B\iTunes_B2B.png
+Content Type: image/png
+
+Uri: https://giftrocket-s3.imgix.net/Brands/US/Walmart/Digital/Walmart.png
+File Name: C:\3fa\www.primeopinion.com\Brands\US\Walmart\Digital\Walmart.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/american-red-cross/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\american-red-cross\logo.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/black-girls-code/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\black-girls-code\logo.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/black-women-s-health-alliance/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\black-women-s-health-alliance\logo.png
+Content Type: image/png
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/canine-companions-for-independence/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\canine-companions-for-independence\logo.png
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/first-nations-development-institution/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\first-nations-development-institution\logo.png
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/latinojustice-prldef/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\latinojustice-prldef\logo.png
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/national-organization-for-rare-disorders/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\national-organization-for-rare-disorders\logo.png
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/Charities/planned-parenthood/logo.png
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\Charities\planned-parenthood\logo.png
+Content Type: binary/octet-stream
+
+Uri: https://s3.amazonaws.com/giftrocket-site-assets/logos/paypal.svg
+File Name: C:\3fa\www.primeopinion.com\giftrocket-site-assets\logos\paypal.svg
+Content Type: image/svg+xml
+
+Uri: https://storage.googleapis.com/trmd-public-assets-vm1p0vtr/406dxt3kq2hwienpd71hml60ps0v
+File Name: C:\3fa\www.primeopinion.com\trmd-public-assets-vm1p0vtr\406dxt3kq2hwienpd71hml60ps0v
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/trmd-public-assets-vm1p0vtr/nfg0maplzd8iw3n0axe90r4eqk9m
+File Name: C:\3fa\www.primeopinion.com\trmd-public-assets-vm1p0vtr\nfg0maplzd8iw3n0axe90r4eqk9m
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/trmd-public-assets-vm1p0vtr/xxvefic01cscfn0qdcnfmit7jhy4
+File Name: C:\3fa\www.primeopinion.com\trmd-public-assets-vm1p0vtr\xxvefic01cscfn0qdcnfmit7jhy4
+Content Type: image/png
+
+Uri: https://storage.googleapis.com/trmd-public-assets-vm1p0vtr/ypxb2bpayn75l2ph8bwf38e3fdyn
+File Name: C:\3fa\www.primeopinion.com\trmd-public-assets-vm1p0vtr\ypxb2bpayn75l2ph8bwf38e3fdyn
+Content Type: image/png
+
+Uri: https://tremendous-assets.s3.amazonaws.com/cardimages/bank.svg
+File Name: C:\3fa\www.primeopinion.com\cardimages\bank.svg
+Content Type: image/svg+xml
+
+Uri: https://tremendous-assets.s3.amazonaws.com/cardimages/venmo.svg
+File Name: C:\3fa\www.primeopinion.com\cardimages\venmo.svg
+Content Type: image/svg+xml
+
+Uri: https://tremendous-assets.s3.amazonaws.com/cardimages/visa_digital.svg
+File Name: C:\3fa\www.primeopinion.com\cardimages\visa_digital.svg
+Content Type: image/svg+xml
+
+Uri: https://tremendous-assets.s3.amazonaws.com/cardimages/visa_physical.svg
+File Name: C:\3fa\www.primeopinion.com\cardimages\visa_physical.svg
+Content Type: image/svg+xml
+
+Uri: https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js
+File Name: C:\3fa\www.primeopinion.com\bootstrap\v5\tp.widget.bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://www.primeopinion.com/en-us
+File Name: C:\3fa\www.primeopinion.com\en-us.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/about
+File Name: C:\3fa\www.primeopinion.com\en-us\about.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/contact
+File Name: C:\3fa\www.primeopinion.com\en-us\contact.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/login
+File Name: C:\3fa\www.primeopinion.com\en-us\login.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/personal-information
+File Name: C:\3fa\www.primeopinion.com\en-us\personal-information.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/policy
+File Name: C:\3fa\www.primeopinion.com\en-us\policy.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/surveys-for-amazon-gift-card
+File Name: C:\3fa\www.primeopinion.com\en-us\surveys-for-amazon-gift-card.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/surveys-for-cash
+File Name: C:\3fa\www.primeopinion.com\en-us\surveys-for-cash.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/surveys-for-gift-cards
+File Name: C:\3fa\www.primeopinion.com\en-us\surveys-for-gift-cards.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/surveys-for-paypal-gift-card
+File Name: C:\3fa\www.primeopinion.com\en-us\surveys-for-paypal-gift-card.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/surveys-for-visa-gift-card
+File Name: C:\3fa\www.primeopinion.com\en-us\surveys-for-visa-gift-card.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/en-us/terms
+File Name: C:\3fa\www.primeopinion.com\en-us\terms.html
+Content Type: text/html
+
+Uri: https://www.primeopinion.com/favicon.svg
+File Name: C:\3fa\www.primeopinion.com\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/02724a9.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\02724a9.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/24fc030.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\24fc030.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/2be21d6.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\2be21d6.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/49523b4.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\49523b4.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/5f8f251.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\5f8f251.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/7a97d2d.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\7a97d2d.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/7af8c2e.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\7af8c2e.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/8a13e3b.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\8a13e3b.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/9971d7d.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\9971d7d.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/a9c5231.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\a9c5231.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/c43451f.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\c43451f.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/ca24b76.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\ca24b76.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/cd44d25.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\cd44d25.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/d58d1d6.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\d58d1d6.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/d8dd739.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\d8dd739.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/d9834bd.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\d9834bd.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/e19c933.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\e19c933.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/e33d3e7.js
+File Name: C:\3fa\www.primeopinion.com\_nuxt\e33d3e7.js
+Content Type: application/javascript
+
+Uri: https://www.primeopinion.com/_nuxt/fonts/primeicons.0620709.woff
+File Name: C:\3fa\www.primeopinion.com\_nuxt\fonts\primeicons.0620709.woff
+Content Type: font/woff
+
+Uri: https://www.primeopinion.com/_nuxt/fonts/primeicons.acb1929.ttf
+File Name: C:\3fa\www.primeopinion.com\_nuxt\fonts\primeicons.acb1929.ttf
+Content Type: font/ttf
+
+Uri: https://www.primeopinion.com/_nuxt/fonts/primeicons.c08d00c.eot
+File Name: C:\3fa\www.primeopinion.com\_nuxt\fonts\primeicons.c08d00c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.primeopinion.com/_nuxt/fonts/primeicons.c08d00c.eot?
+File Name: C:\3fa\www.primeopinion.com\_nuxt\fonts\primeicons.c08d00c-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.primeopinion.com/_nuxt/fonts/primeicons.c0929a1.woff2
+File Name: C:\3fa\www.primeopinion.com\_nuxt\fonts\primeicons.c0929a1.woff2
+Content Type: font/woff2
+
+Uri: https://www.primeopinion.com/_nuxt/img/bg-noise.cd298d2.png
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\bg-noise.cd298d2.png
+Content Type: image/png
+
+Uri: https://www.primeopinion.com/_nuxt/img/bg-reward.8f7ac54.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\bg-reward.8f7ac54.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/color.c7a3380.png
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\color.c7a3380.png
+Content Type: image/png
+
+Uri: https://www.primeopinion.com/_nuxt/img/gradient-bg-promo.76700af.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\gradient-bg-promo.76700af.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/intro-amazon-image.abdf4e4.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\intro-amazon-image.abdf4e4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/intro-cash-image.991242f.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\intro-cash-image.991242f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/intro-gift-cards-image.851064a.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\intro-gift-cards-image.851064a.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/intro-paypal-image.1fc31df.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\intro-paypal-image.1fc31df.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/intro-visa-image.dbfd425.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\intro-visa-image.dbfd425.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/logo-amazon.e55fe82.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\logo-amazon.e55fe82.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/logo-paypal.94960a7.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\logo-paypal.94960a7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/logo-visa.bb2cec2.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\logo-visa.bb2cec2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/logo.6a4708f.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\logo.6a4708f.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/minimum-payout.f5436e9.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\minimum-payout.f5436e9.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/primeicons.1d854e3.svg?
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\primeicons.1d854e3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/step1-decor.a3f8c89.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\step1-decor.a3f8c89.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/step1.912f303.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\step1.912f303.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/step2.4ace38e.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\step2.4ace38e.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/step3-decor.b8c3d51.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\step3-decor.b8c3d51.svg
+Content Type: image/svg+xml
+
+Uri: https://www.primeopinion.com/_nuxt/img/step3.264c859.svg
+File Name: C:\3fa\www.primeopinion.com\_nuxt\img\step3.264c859.svg
+Content Type: image/svg+xml
+
